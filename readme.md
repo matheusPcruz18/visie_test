@@ -1,10 +1,10 @@
 # Matheus Pereira da Cruz
 
-## Tecnologias utilziadas
+## Tecnologias utilizadas
 
-✔️ Node.js na contrução da API e conexão com o banco de dados.
+✔️ Node.js na construção da API e conexão com o banco de dados.
   
-✔️ React Native e Expo para a contrução do app e facilitar o desenvolvimento.
+✔️ React Native e Expo para a construção do app e facilitar o desenvolvimento.
   
 ✔️ Styled Components para a estilização.
 
